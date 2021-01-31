@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_results" type="id" />
+    <item name="btn_insert_customer" type="id" />
+    <item name="btn_insert_name" type="id" />
+    <item name="btn_insert_email" type="id" />
+    <item name="btn_insert_phone_num" type="id" />
+    <item name="rv_customer" type="id" />
+    <item name="btn_remove_customer" type="id" />
+    <item name="btn_remove_name" type="id" />
+    <item name="btn_remove_email" type="id" />
+    <item name="btn_remove_phone_num" type="id" />
+    <item name="btn_search_customer" type="id" />
+    <item name="btn_search_name" type="id" />
+    <item name="tv_search_result" type="id" />
+    <item name="toolbar" type="id" />
+</resources>
